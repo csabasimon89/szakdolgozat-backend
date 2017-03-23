@@ -1,0 +1,2 @@
+# szakdolgozat-backend
+Szakdolgozat backend
